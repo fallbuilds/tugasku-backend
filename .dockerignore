@@ -1,0 +1,6 @@
+.dart_tool/
+.packages
+tugasku.db
+build/
+test/
+*.md

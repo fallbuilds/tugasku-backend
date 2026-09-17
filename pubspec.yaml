@@ -1,0 +1,17 @@
+name: tugasku_backend
+description: TugasKu REST API Backend
+version: 1.0.0
+
+environment:
+  sdk: ^3.10.0
+
+dependencies:
+  shelf: ^1.4.0
+  shelf_router: ^1.1.0
+  sqlite3: ^2.4.0
+  crypto: ^3.0.0
+  dart_jsonwebtoken: ^2.14.0
+
+dev_dependencies:
+  test: ^1.25.0
+  http: ^1.2.0
